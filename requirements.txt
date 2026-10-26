@@ -1,0 +1,10 @@
+numpy>=1.24,<3
+opencv-python>=4.8
+Pillow>=10
+pandas>=2
+matplotlib>=3.7
+scikit-image>=0.22
+streamlit>=1.32
+# Optional deep-learning backend (install separately only if required):
+# torch>=2.1
+# basicsr>=1.4.2
